@@ -1,11 +1,11 @@
-# Hallo ich bin Josef 
+# Hallo, mein Name Josef 👋
 
-<!--
-**JTyga/JTyga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## 
+🧰 Programmiersprachen & Tools
+👋
+### 🖥️ Projekte
+### ℹ️ Interessen und Ziele
 Here are some ideas to get you started:
-
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
