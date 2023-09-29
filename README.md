@@ -1,4 +1,4 @@
-# Hallo, mein Name Josef 👋
+# Hallo, mein Name ist Josef 👋
 
 🧰 Programmiersprachen & Tools
 👋
