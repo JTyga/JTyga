@@ -19,6 +19,7 @@
 <img align="left" alt="bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
 <img align="left" alt="gitub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
 <img align="left" alt="aws" width="50px" style="padding-right:5px;" src="https://cdn3.emoji.gg/emojis/8708-aws.png"/>
+☁️
 </div>
 
 <br/>
