@@ -1,4 +1,4 @@
-# Hallo, mein Name ist Josef 👋
+# Hallo, mein Name ist JT 👋
 
 ## 🧰 Programmiersprachen & Tools
 
@@ -26,7 +26,6 @@
 - 📫 So erreichen Sie mich: ...
 - 😄 Pronomen: ...
 - ⚡ Lustige Tatsache: ...
-
 
 
 
