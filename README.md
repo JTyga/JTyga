@@ -22,7 +22,7 @@
 
 ## 🖥️ Projekte
 
-## ℹ️ Interessen und Ziele
+## ℹ️ 🎯Interessen und Ziele
 
 - 🔭 
 - 🌱 
