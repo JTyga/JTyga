@@ -20,7 +20,7 @@
 <br/>
 <br/>
 
-## 🖥️ Projekte
+## 💻 Projekte
 
 ## ℹ️ 🎯Interessen und Ziele
 
