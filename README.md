@@ -29,10 +29,17 @@
 <img align="left" alt="awsservices" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
 <img align="left" alt="jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"/>
 </div>
+
+
+
 <br/>
 <br/>
 
+
+
 ## 💻 Projekte
+
+
 
 ## ℹ️ 🎯Interessen und Ziele
 
