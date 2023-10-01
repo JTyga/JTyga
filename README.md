@@ -28,11 +28,7 @@
 <img align="left" alt="aws" width="50px" style="padding-right:5px;" src="https://cdn3.emoji.gg/emojis/8708-aws.png"/>
 <img align="left" alt="awsservices" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
 <img align="left" alt="jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"/>
-        
-          
-          
 </div>
-
 <br/>
 <br/>
 
