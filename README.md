@@ -37,11 +37,11 @@
 
 
 
-## 💻 Projekte
 
 
 
-## ℹ️ 🎯Interessen und Ziele
+
+
 
 
 
